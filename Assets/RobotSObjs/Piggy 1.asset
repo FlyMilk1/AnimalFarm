@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00892d5cec6d5af4681712fff4f820b7, type: 3}
+  m_Name: Piggy 1
+  m_EditorClassIdentifier: 
+  SecondRandom: {x: 10, y: 18}
+  Route1: 00000000010000000300000004000000
+  Route2: 00000000010000000300000004000000
+  Positions:
+  - {x: 27.46, y: 2.48, z: 6.23}
+  - {x: 18.94, y: 0, z: -9.92}
+  - {x: 11.15, y: 0, z: -17.33}
+  - {x: 36.92, y: 0, z: -25.05}
+  - {x: -4.41, y: 0.00000023841858, z: 2.71}

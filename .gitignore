@@ -1,0 +1,8 @@
+Assets/Materials/
+.vs/
+.vsconfig/
+Temp/
+UserSettings/
+Library/
+Logs/
+Assets/Prefabs/lamp.fbx
